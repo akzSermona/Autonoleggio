@@ -1,0 +1,13 @@
+it\unimol\autonoleggio\entity\Cliente.class
+it\unimol\autonoleggio\controller\AutoController.class
+it\unimol\autonoleggio\repository\NoleggioRepository.class
+it\unimol\autonoleggio\entity\Noleggio.class
+it\unimol\autonoleggio\controller\NoleggioController.class
+it\unimol\autonoleggio\service\ClienteService.class
+it\unimol\autonoleggio\service\NoleggioService.class
+it\unimol\autonoleggio\repository\AutoRepository.class
+it\unimol\autonoleggio\controller\ClienteController.class
+it\unimol\autonoleggio\service\AutoService.class
+it\unimol\autonoleggio\entity\Auto.class
+it\unimol\autonoleggio\repository\ClienteRepository.class
+it\unimol\autonoleggio\AutonoleggioApplication.class
